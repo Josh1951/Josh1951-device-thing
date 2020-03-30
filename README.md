@@ -16,4 +16,6 @@ replacing the parameters with the numbers.
 
 The terminal should display the new reading.
 
-make request to http://localhost:3000/all to get all the readings
+make request to http://localhost:3000/all to get all the readings.
+
+Put on server when ready swapping out localhost etc. for whatever the server name is.
